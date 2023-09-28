@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fong-Zi-San. I also go by Samantha!
+- 👀 I’m interested in becoming a front end developer.
+- 🌱 I’m currently refining my knowledge on HTML/CSS, Javascript, and ReactJS. I also want to dive into typescript, Bootstrap, and SASS.
+- 📫 You can reach me at zisanfong@gmail.com
